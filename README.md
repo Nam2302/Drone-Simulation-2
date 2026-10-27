@@ -33,7 +33,7 @@ An outer position-PD loop turns tracking error into a desired force. That force 
 
 ## Parameters
 
-Set at the top of `main.m`: `waypoints`, `mass`, `speed`, `Kp`, `Kd`, `Kr`, `Kw`, `I` (placeholder values), `gate_radius`.
+Set at the top of `main.m`: `waypoints`, `mass`, `speed`, `Kp`, `Kd`, `Kr`, `Kw`, `I`, `gate_radius`.
 
 ## How to Run
 
